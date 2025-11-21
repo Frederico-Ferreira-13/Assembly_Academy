@@ -1,0 +1,14 @@
+C:\Users\frede\source\repos\MultiGame\MultiGame\bin\Debug\net9.0\MultiGame.exe
+C:\Users\frede\source\repos\MultiGame\MultiGame\bin\Debug\net9.0\MultiGame.deps.json
+C:\Users\frede\source\repos\MultiGame\MultiGame\bin\Debug\net9.0\MultiGame.runtimeconfig.json
+C:\Users\frede\source\repos\MultiGame\MultiGame\bin\Debug\net9.0\MultiGame.dll
+C:\Users\frede\source\repos\MultiGame\MultiGame\bin\Debug\net9.0\MultiGame.pdb
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\MultiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\MultiGame.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\MultiGame.AssemblyInfo.cs
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\MultiGame.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\MultiGame.dll
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\refint\MultiGame.dll
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\MultiGame.pdb
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\MultiGame.genruntimeconfig.cache
+C:\Users\frede\source\repos\MultiGame\MultiGame\obj\Debug\net9.0\ref\MultiGame.dll
