@@ -1,0 +1,14 @@
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\bin\Debug\net9.0\DesafioRafael.exe
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\bin\Debug\net9.0\DesafioRafael.deps.json
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\bin\Debug\net9.0\DesafioRafael.runtimeconfig.json
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\bin\Debug\net9.0\DesafioRafael.dll
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\bin\Debug\net9.0\DesafioRafael.pdb
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\DesafioRafael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\DesafioRafael.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\DesafioRafael.AssemblyInfo.cs
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\DesafioRafael.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\DesafioRafael.dll
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\refint\DesafioRafael.dll
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\DesafioRafael.pdb
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\DesafioRafael.genruntimeconfig.cache
+C:\Users\frede\source\repos\DesafioRafael\DesafioRafael\obj\Debug\net9.0\ref\DesafioRafael.dll
