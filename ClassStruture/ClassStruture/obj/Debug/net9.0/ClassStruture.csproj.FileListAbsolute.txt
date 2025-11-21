@@ -1,0 +1,14 @@
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\bin\Debug\net9.0\ClassStruture.exe
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\bin\Debug\net9.0\ClassStruture.deps.json
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\bin\Debug\net9.0\ClassStruture.runtimeconfig.json
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\bin\Debug\net9.0\ClassStruture.dll
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\bin\Debug\net9.0\ClassStruture.pdb
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\ClassStruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\ClassStruture.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\ClassStruture.AssemblyInfo.cs
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\ClassStruture.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\ClassStruture.dll
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\refint\ClassStruture.dll
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\ClassStruture.pdb
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\ClassStruture.genruntimeconfig.cache
+C:\Users\frede\source\repos\ClassStruture\ClassStruture\obj\Debug\net9.0\ref\ClassStruture.dll
