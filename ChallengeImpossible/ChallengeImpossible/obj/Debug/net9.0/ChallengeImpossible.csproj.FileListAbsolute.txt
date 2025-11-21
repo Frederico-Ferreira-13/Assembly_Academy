@@ -1,0 +1,14 @@
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\bin\Debug\net9.0\ChallengeImpossible.exe
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\bin\Debug\net9.0\ChallengeImpossible.deps.json
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\bin\Debug\net9.0\ChallengeImpossible.runtimeconfig.json
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\bin\Debug\net9.0\ChallengeImpossible.dll
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\bin\Debug\net9.0\ChallengeImpossible.pdb
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\ChallengeImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\ChallengeImpossible.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\ChallengeImpossible.AssemblyInfo.cs
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\ChallengeImpossible.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\ChallengeImpossible.dll
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\refint\ChallengeImpossible.dll
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\ChallengeImpossible.pdb
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\ChallengeImpossible.genruntimeconfig.cache
+C:\Users\frede\source\repos\ChallengeImpossible\ChallengeImpossible\obj\Debug\net9.0\ref\ChallengeImpossible.dll
